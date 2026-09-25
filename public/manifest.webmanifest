@@ -1,0 +1,12 @@
+{
+  "name": "OnePhoto",
+  "short_name": "OnePhoto",
+  "description": "One photo in, every version out - professional enhancement, entirely on your device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d0e11",
+  "theme_color": "#0d0e11",
+  "icons": []
+}
